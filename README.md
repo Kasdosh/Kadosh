@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kasdosh
+- 👋 Hi, I’m @MorKadosh
 - 👀 I’m interested in networking, web scraping, game dev 
 - 🌱 I’m currently looking for a fun project
 - 💞️ I’m looking to collaborate on any interesting project
