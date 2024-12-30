@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kasdosh
 - 👀 I’m interested in networking, web scraping, game dev 
-- 🌱 I’m currently learning how to create a virtual physics lab for high school students
+- 🌱 I’m currently looking for a fun project
 - 💞️ I’m looking to collaborate on any interesting project
 - 📫 How to reach me morka60001@gmail.com
 - Israel's National Cyber Program 'Magshimim' graduate
